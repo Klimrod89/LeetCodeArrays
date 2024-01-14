@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u4Joa3MvFbO9YcWztQYYdjCyfZyKvRuwmvZugt1QT4RCMkEVFcRq09SlBFvcYJ8/j6FZquThi3WspIvRg3NPoQ==",
+  "dgSpecHash": "nNjn5+CdfYTrEuSD36Rwl5TLXgNX/o3uDLfWKfEzwxRlpiTJi668rvkiTlvmkt6R/gMUHbfy0cviKLYFbwjPIQ==",
   "success": true,
-  "projectFilePath": "/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/LeetCode/Arrays/DemoLibrary.Tests/DemoLibrary.Tests.csproj",
+  "projectFilePath": "/Users/ymac/Code/DotNetCLI/LeetCode/Arrays/DemoLibrary.Tests/DemoLibrary.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/ymac/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/ymac/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
@@ -92,7 +92,9 @@
     "/Users/ymac/.nuget/packages/xunit.core/2.4.2/xunit.core.2.4.2.nupkg.sha512",
     "/Users/ymac/.nuget/packages/xunit.extensibility.core/2.4.2/xunit.extensibility.core.2.4.2.nupkg.sha512",
     "/Users/ymac/.nuget/packages/xunit.extensibility.execution/2.4.2/xunit.extensibility.execution.2.4.2.nupkg.sha512",
-    "/Users/ymac/.nuget/packages/xunit.runner.visualstudio/2.4.5/xunit.runner.visualstudio.2.4.5.nupkg.sha512"
+    "/Users/ymac/.nuget/packages/xunit.runner.visualstudio/2.4.5/xunit.runner.visualstudio.2.4.5.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

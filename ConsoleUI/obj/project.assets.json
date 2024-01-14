@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/LeetCode/Arrays/ConsoleUI/ConsoleUI.csproj",
+      "projectUniqueName": "/Users/ymac/Code/DotNetCLI/LeetCode/Arrays/ConsoleUI/ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/LeetCode/Arrays/ConsoleUI/ConsoleUI.csproj",
+      "projectPath": "/Users/ymac/Code/DotNetCLI/LeetCode/Arrays/ConsoleUI/ConsoleUI.csproj",
       "packagesPath": "/Users/ymac/.nuget/packages/",
-      "outputPath": "/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/LeetCode/Arrays/ConsoleUI/obj/",
+      "outputPath": "/Users/ymac/Code/DotNetCLI/LeetCode/Arrays/ConsoleUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ymac/.nuget/NuGet/NuGet.Config"
@@ -52,8 +52,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/LeetCode/Arrays/DemoLibrary/DemoLibrary.csproj": {
-              "projectPath": "/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/LeetCode/Arrays/DemoLibrary/DemoLibrary.csproj"
+            "/Users/ymac/Code/DotNetCLI/LeetCode/Arrays/DemoLibrary/DemoLibrary.csproj": {
+              "projectPath": "/Users/ymac/Code/DotNetCLI/LeetCode/Arrays/DemoLibrary/DemoLibrary.csproj"
             }
           }
         }
@@ -78,12 +78,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.305/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

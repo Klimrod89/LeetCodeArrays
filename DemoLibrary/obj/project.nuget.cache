@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/c2GFZZW2fjUuwVYWgs8BwkJA3i1nw4kswfja6HeMLUzJ+G+I8Oeck2ynNxbPherm5f6Hw/8zHNF7rFTIvCbGQ==",
+  "dgSpecHash": "T35uFAATT5ggDa3Hc/sn0a0MLOh0zGHWAicDrgv/mcp97+7w46mWvgkhZXWwY4VscvibY6BTMorWN3E3lOd7gA==",
   "success": true,
-  "projectFilePath": "/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/LeetCode/Arrays/DemoLibrary/DemoLibrary.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ymac/Code/DotNetCLI/LeetCode/Arrays/DemoLibrary/DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/ymac/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
